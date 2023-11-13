@@ -1,5 +1,6 @@
 # Kareena's Coding Journey 🚀
 
+**This text is bold.**
 Hello there! 👋 I'm Kareena (@kareena0211), a passionate coder exploring the vast world of programming. Here's a little about me:
 
 👀 __ Interests: __ I'm deeply fascinated by the realms of coding and technology. From crafting beautiful web interfaces to solving complex problems with code, I find joy in every aspect of the digital world.
