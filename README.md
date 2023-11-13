@@ -10,11 +10,11 @@ Hello there! 👋 I'm Kareena (@kareena0211), a passionate coder exploring the v
 
 **📫 How to Reach Me:**
 
-**LinkedIn:** Connect with me on LinkedIn
+**LinkedIn:** Connect with me on LinkedIn(https://www.linkedin.com/in/kareena-466646261/)
 
 **Email:** Shoot me an email at kareena22@navgurukul.org
 
-**Instagram:** Follow my coding adventures on Instagram
+**Instagram:** Follow my coding adventures on Instagram(https://www.instagram.com/kareena5415/)
 
 Feel free to reach out if you share a passion for coding, want to collaborate, or just want to have a chat about the latest tech trends. Let's code, innovate, and make a mark in the digital world! 🌐💻✨
 
